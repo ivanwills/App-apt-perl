@@ -17,5 +17,5 @@ while ( my $file = shift @files ) {
     }
 }
 
-diag( "Testing App::apt-perl $App::apt-perl::VERSION, Perl $], $^X" );
+diag( "Testing App::aptperl $App::aptperl::VERSION, Perl $], $^X" );
 done_testing();
