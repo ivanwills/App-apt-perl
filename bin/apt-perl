@@ -9,14 +9,10 @@
 use strict;
 use warnings;
 use version;
-use Scalar::Util;
-use List::Util;
 use Getopt::Long;
 use Pod::Usage;
-use Data::Dumper qw/Dumper/;
 use English qw/ -no_match_vars /;
 use FindBin qw/$Bin/;
-use Path::Class;
 use Module::CoreList;
 use File::chdir;
 use YAML::Syck qw/LoadFile/;
