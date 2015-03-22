@@ -1,5 +1,14 @@
 Revision history for App-apt-perl
 
 0.0.1   2015-03-06
-        First version, released on an unsuspecting world.
-
+        Another missed dependency (Ivan Wills)
+        Added missing dependency (Ivan Wills)
+        Added config for coveralls.io (Ivan Wills)
+        Changed updated dependency (Ivan Wills)
+        Large cleanup (Ivan Wills)
+        Updated requirements and module name (Ivan Wills)
+        Removed unused modules (Ivan Wills)
+        Updated code and documentation (Ivan Wills)
+        Fixed file name (Ivan Wills)
+        Fixed script name (Ivan Wills)
+        Initial commit (Ivan Wills)
