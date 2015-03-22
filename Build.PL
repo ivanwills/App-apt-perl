@@ -16,6 +16,7 @@ my $builder = Module::Build->new(
         'Module::CoreList'       => 0,
         'WWW::Mechanize::Cached' => 0,
         'YAML::Syck'             => 0,
+        'version'                => 0,
     },
     build_requires => {
         'Test::More'     => 0,
