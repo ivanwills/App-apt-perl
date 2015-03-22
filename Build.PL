@@ -13,6 +13,7 @@ my $builder = Module::Build->new(
         'File::chdir'            => 0,
         'HTTP::Tiny::Mech'       => 0,
         'MetaCPAN::API'          => 0,
+        'Module::CoreList'       => 0,
         'WWW::Mechanize::Cached' => 0,
         'YAML::Syck'             => 0,
     },
